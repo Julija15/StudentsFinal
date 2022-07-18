@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59eecbab-f75b-4b5b-946f-e996b7daf7df" name="Changes" comment="987989" />
+    <list default="true" id="59eecbab-f75b-4b5b-946f-e996b7daf7df" name="Changes" comment="Merge remote-tracking branch 'github/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,42 @@
       <option name="project" value="LOCAL" />
       <updated>1658169250747</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="98798979">
+      <created>1658169617906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169617906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="98798979">
+      <created>1658169642414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169642414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="98798979">
+      <created>1658169736229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169736229</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'github/master'">
+      <created>1658169964137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169964137</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'">
+      <created>1658169975244</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169975244</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,11 +139,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit1" />
-    <MESSAGE value="123" />
     <MESSAGE value="987456" />
     <MESSAGE value="987" />
     <MESSAGE value="98798" />
     <MESSAGE value="987989" />
-    <option name="LAST_COMMIT_MESSAGE" value="987989" />
+    <MESSAGE value="987989797" />
+    <MESSAGE value="final" />
+    <MESSAGE value="98798979" />
+    <MESSAGE value="123" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
   </component>
 </project>
