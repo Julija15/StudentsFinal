@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59eecbab-f75b-4b5b-946f-e996b7daf7df" name="Changes" comment="987">
-      <change beforePath="$PROJECT_DIR$/Students.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentsFinnaly.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="59eecbab-f75b-4b5b-946f-e996b7daf7df" name="Changes" comment="987989" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658168931516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="98798">
+      <created>1658169078255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169078255</updated>
+    </task>
+    <task id="LOCAL-00004" summary="987989">
+      <created>1658169250747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169250747</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +105,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="987456" />
     <MESSAGE value="987" />
-    <option name="LAST_COMMIT_MESSAGE" value="987" />
+    <MESSAGE value="98798" />
+    <MESSAGE value="987989" />
+    <option name="LAST_COMMIT_MESSAGE" value="987989" />
   </component>
 </project>
