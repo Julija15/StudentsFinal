@@ -4,8 +4,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.Scanner;
 
-import static java.sql.DriverManager.getConnection;
-
 public class Main {
     private static final String host = "127.0.0.1";
     private static final String port = "5432";
